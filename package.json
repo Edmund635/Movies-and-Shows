@@ -1,0 +1,23 @@
+{
+  "name": "movies-and-shows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edmund635/Movies-and-Shows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edmund635/Movies-and-Shows/issues"
+  },
+  "homepage": "https://github.com/Edmund635/Movies-and-Shows#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
